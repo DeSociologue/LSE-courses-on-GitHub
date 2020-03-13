@@ -1,4 +1,4 @@
-# LSE-courses-on-GitHub
+# LSE courses on GitHub
 
 LSE introduced the free online repository and version control service GitHub to share course materials, submit summative assessment, and provide feedback for most of the computational methods courses at the Department of Methodology.
 
